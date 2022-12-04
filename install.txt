@@ -1,0 +1,6 @@
+Install:
+npx create-react-app my-app
+
+Start and use:
+cd my-app
+npm start

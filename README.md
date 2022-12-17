@@ -20,3 +20,4 @@ JavaScript![html-svgrepo-com](https://user-images.githubusercontent.com/97390534
 
 React.js![javascript-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232374-f08fd315-7444-4ac0-b01a-af56cc8b89e6.svg)
 ![react-1-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232437-2e1193c7-df7a-4aff-97e3-1d80594f55fd.svg)
+![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232589-5b926a10-1d3c-442f-a960-464f27080562.svg)

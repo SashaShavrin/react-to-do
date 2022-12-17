@@ -1,8 +1,8 @@
 # Simple to-do list on React.js
 
-Для установки зависимостей ### `npm install`
+To install dependencies, enter the command 
 
-
+### `npm install`
 
 In the project directory, you can run:
 

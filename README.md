@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Stack
 
-![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232683-ffe777d3-8031-4d97-889a-7d03cb64a371.svg) - #HTML
+#![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232683-ffe777d3-8031-4d97-889a-7d03cb64a371.svg) - HTML
 
 ![javascript-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232684-dee074e2-47e3-4f5b-b61d-44a991bc15fd.svg) - #JavaScript
 

@@ -13,11 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Stack
 
-HTML
-SCSS
-JavaScript![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232474-357c7008-a9bd-414d-94ea-e10a89b79575.svg)
-![sass-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232495-4ebe7e44-6cb5-41da-9ee9-5bf59d9fde60.svg)
 
-React.js![javascript-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232374-f08fd315-7444-4ac0-b01a-af56cc8b89e6.svg)
-![react-1-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232437-2e1193c7-df7a-4aff-97e3-1d80594f55fd.svg)
-![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232589-5b926a10-1d3c-442f-a960-464f27080562.svg)
+![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232683-ffe777d3-8031-4d97-889a-7d03cb64a371.svg)
+![javascript-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232684-dee074e2-47e3-4f5b-b61d-44a991bc15fd.svg)
+![react-1-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232686-7c7ed7ed-5492-4900-a19c-2ad608dd951c.svg)
+![sass-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232689-43da12eb-a0ab-4c6f-a4a5-82b4bd2abae1.svg)
